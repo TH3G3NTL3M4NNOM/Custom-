@@ -1,1 +1,1 @@
-A simple calculator that can be used by everyone, is written in python
+It is a tool that displays multiplication tables.
